@@ -1,9 +1,0 @@
-{
-    "plugins": [
-        "relay"
-    ],
-    "presets": [
-        "env",
-        "react"
-    ]
-}

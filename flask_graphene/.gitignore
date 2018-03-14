@@ -1,0 +1,4 @@
+app/static/dist
+config.json
+initial_data.json
+node_modules

@@ -3,7 +3,3 @@
 .vscode
 __generated__
 __pycache__
-app/static/dist
-config.json
-initial_data.json
-node_modules
